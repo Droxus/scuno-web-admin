@@ -40,3 +40,23 @@
 .read-the-docs {
   color: #888;
 }
+
+.admin-panel {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #121212;
+  color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+}
+
+.wallet-info p {
+  margin: 8px 0;
+  padding: 4px 0;
+  border-bottom: 1px solid #333;
+}
+
+.wallet-info strong {
+  color: #4CAF50;
+}
